@@ -1,0 +1,3 @@
+C:/Users/alexm/Downloads/Trade/C++LowLatencyRelay/build/CMakeFiles/C++LowLatencyRelay.dir
+C:/Users/alexm/Downloads/Trade/C++LowLatencyRelay/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/alexm/Downloads/Trade/C++LowLatencyRelay/build/CMakeFiles/ZERO_CHECK.dir

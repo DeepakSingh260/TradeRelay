@@ -1,0 +1,10 @@
+^C:\USERS\ALEXM\DOWNLOADS\TRADE\C++LOWLATENCYRELAY\BUILD\CMAKEFILES\6C95CA79F20FD5A450B4402E31DACFC6\GENERATE.STAMP.RULE
+setlocal
+C:\Users\alexm\Downloads\cmake-3.29.4-windows-x86_64\cmake-3.29.4-windows-x86_64\bin\cmake.exe -SC:/Users/alexm/Downloads/Trade/C++LowLatencyRelay -BC:/Users/alexm/Downloads/Trade/C++LowLatencyRelay/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/alexm/Downloads/Trade/C++LowLatencyRelay/build/TradeRelay.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
